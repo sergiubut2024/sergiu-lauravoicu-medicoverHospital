@@ -7,9 +7,9 @@
 <html lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Health Care Hospital</title>
 <link href="/HospitalManagementSys/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-  <link href="/HospitalManagementSys/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
   <link rel="stylesheet" type="text/css" href="/HospitalManagementSys/plugins/cubeportfolio/css/cubeportfolio.min.css">
   <link href="/HospitalManagementSys/css/nivo-lightbox.css" rel="stylesheet" />
   <link href="/HospitalManagementSys/css/nivo-lightbox-theme/default/default.css" rel="stylesheet" type="text/css" />
@@ -49,7 +49,8 @@
                     <i class="fa fa-bars"></i>
                 </button>
           <a class="navbar-brand" href="<%=HMSView.WELCOME_CTL%>">
-                    <h5>Hospital Management System</h5>
+                    <img src="img/logo-hospital.png" alt="Hospital Management System" style="height: 63px; display: inline-block;">
+    				<span class="sr-only">Hospital Management System</span> <!-- Keeps the text for screen readers only -->
                 </a>
         </div>
 
