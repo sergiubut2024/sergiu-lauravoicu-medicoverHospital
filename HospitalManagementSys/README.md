@@ -3,7 +3,7 @@
 <p><strong>Project Name:</strong> Medicover Hospital Demo<br>
 <strong>Java Developers:</strong> Sergiu But & Laura Voicu</p>
 
-<h2>Technologies Used</h2>
+<h2>Technologies Used:</h2>
 <ul>
   <li><strong>Web Technologies:</strong> JSP (JavaServer Pages), Servlets, HTML, CSS</li>
   <li><strong>Programming Language:</strong> Java</li>
