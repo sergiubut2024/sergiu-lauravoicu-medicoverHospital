@@ -1,4 +1,4 @@
-<h1>Java Project "Medicover Hospital Demo"</h1>
+<h1>Java Project Exam "Medicover Hospital Demo"</h1>
 
 <p><strong>Project Name:</strong> Medicover Hospital Demo<br>
 <strong>Java Developers:</strong> Sergiu But & Laura Voicu</p>
