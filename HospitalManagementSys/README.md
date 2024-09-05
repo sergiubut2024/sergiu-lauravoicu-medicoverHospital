@@ -7,11 +7,12 @@
 <ul>
   <li><strong>Web Technologies:</strong> JSP (JavaServer Pages), Servlets, HTML, CSS</li>
   <li><strong>Programming Language:</strong> Java</li>
-  <li><strong>Database:</strong> Microsoft SQL Server 2005</li>
+  <li><strong>IDE:</strong> Eclipse latest</li>
+  <li><strong>Database:</strong> Microsoft SQL Server and Mysql Workbench latest</li>
   <li><strong>Web Server:</strong> Apache Tomcat</li>
   <li><strong>Operating System:</strong> Windows</li>
 </ul>
-
+<p>Project will run only in Eclipse and with the imported database (database_setup.sql found in the root project).
 <h2>Overview</h2>
 <p>The "Medicover Hospital Demo" is a web-based application designed as a demo for managing operations within a medical facility. This application demonstrates functionalities typically required by hospitals or clinics, such as managing user roles, handling patient data, and scheduling appointments. The system is structured to provide secure, role-based access to its features, ensuring that different users have access to functionalities pertinent to their roles.</p>
 
@@ -53,7 +54,7 @@
 </ul>
 
 <h3>Deployment Environment</h3>
-<p>The entire application is designed to run on a Windows operating system environment with the Apache Tomcat server acting as the web server and SQL Server 2005 serving as the backend database.</p>
+<p>The entire application is designed to run on a Windows operating system environment with the Apache Tomcat server acting as the web server and SQL Server serving as the backend database.</p>
 
 <h2>How to Use the Application</h2>
 <h3>Login Process</h3>
@@ -68,5 +69,3 @@
 <h3>Database Configuration</h3>
 <p>To log in as an admin, doctor, or receptionist, ensure that the correct credentials are entered into the <code>h_user</code> table in the SQL Server database.</p>
 
-<h2>Conclusion</h2>
-<p>The "Medicover Hospital Demo" is a comprehensive web application built with Java-based technologies, designed to demonstrate typical functionalities required by healthcare facilities. It is structured to provide a secure, scalable, and user-friendly environment for managing hospital operations through a role-based access control system.</p>
