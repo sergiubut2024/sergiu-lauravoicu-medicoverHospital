@@ -120,7 +120,7 @@
                          <div class="row">
                           <div class="col-xs-6 col-sm-6 col-md-6">
                             <div class="form-group">
-                              <label>Deceased</label>
+                              <label>Diagnosis</label>
                               <textarea rows="3" cols="4" placeholder="Enter Deceased" name="deceased" class="form-control input-md" ><%=DataUtility.getStringData(bean.getDeceased()) %></textarea> 
                               <div><font  color="red"><%=ServletUtility.getErrorMessage("deceased", request)%></font></div>
                             </div>

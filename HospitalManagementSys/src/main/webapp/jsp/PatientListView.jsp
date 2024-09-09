@@ -81,7 +81,7 @@
 							<th scope="col">Doctor Name</th>
 							<th scope="col">City</th>
 							<th scope="col">Address</th>
-							<th scope="col">Deceased</th>
+							<th scope="col">Diagnosis</th>
 							<th scope="col">Edit</th>
 						</tr>
 					</thead>

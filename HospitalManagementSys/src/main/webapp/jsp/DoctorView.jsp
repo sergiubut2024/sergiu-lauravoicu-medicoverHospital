@@ -182,7 +182,7 @@
                          <div class="row">
                           <div class="col-xs-6 col-sm-6 col-md-6">
                             <div class="form-group">
-                              <label>Spcialization</label>
+                              <label>Specialty</label>
                               <textarea rows="3" cols="5" name="spcialization" placeholder="Enter Spcialization" class="form-control input-md" ><%=DataUtility.getStringData(bean.getSpcialization()) %></textarea> 
                               <div><font  color="red"><%=ServletUtility.getErrorMessage("spcialization", request)%></font></div>
                             </div>

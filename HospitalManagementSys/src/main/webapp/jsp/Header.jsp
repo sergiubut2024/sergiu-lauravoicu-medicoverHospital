@@ -49,7 +49,7 @@
                     <i class="fa fa-bars"></i>
                 </button>
           <a class="navbar-brand" href="<%=HMSView.WELCOME_CTL%>">
-                    <img src="img/logo-hospital.png" alt="Hospital Management System" style="height: 63px; display: inline-block;">
+                    <img src="<%=request.getContextPath()%>/assets/logo-hospital.png" alt="Medicover Hospital" style="height: 63px; display: inline-block;">
     				<span class="sr-only">Hospital Management System</span> <!-- Keeps the text for screen readers only -->
                 </a>
         </div>
