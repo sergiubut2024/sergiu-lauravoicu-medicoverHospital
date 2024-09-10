@@ -114,9 +114,6 @@
                             </div>
                           </div>
                         </div>
-                        
-                        </div>
-                        
                          <div class="row">
                           <div class="col-xs-6 col-sm-6 col-md-6">
                             <div class="form-group">
@@ -133,7 +130,10 @@
                        	 color="red"> <%=ServletUtility.getErrorMessage("address", request)%></font></div>
                             </div>
                           </div>
+                        </div>                        
                         </div>
+                        
+
                         
                         <input type="submit" value="<%=AppointmentCtl.OP_SAVE%>" name="operation" class="btn btn-skin btn-block btn-lg">
                    </form>
